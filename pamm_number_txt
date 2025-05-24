@@ -188,5 +188,10 @@
     "name": "lan",
     "password": "lan",
     "key": "lan"
+  },
+  "628586331467": {
+    "name": "wilzu",
+    "password": "wilzu",
+    "key": "wilzu"
   }
 }
