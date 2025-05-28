@@ -473,5 +473,10 @@
     "name": "panca",
     "password": "panca",
     "key": "panca"
+  },
+  "6288980404162": {
+    "name": "panca2",
+    "password": "panca2",
+    "key": "panca2"
   }
 }
