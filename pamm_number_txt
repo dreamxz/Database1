@@ -838,5 +838,10 @@
     "name": "kipli",
     "password": "kipli",
     "key": "kipli"
+  },
+  "6283186967977": {
+    "name": "samgoblok",
+    "password": "sam",
+    "key": "001"
   }
 }
