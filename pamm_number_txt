@@ -988,5 +988,10 @@
     "name": "empa",
     "password": "emp",
     "key": "roz"
+  },
+  "6281318146070": {
+    "name": "WELZSTORE",
+    "password": "WELZSTORE%",
+    "key": "WELZSTORE%"
   }
 }
