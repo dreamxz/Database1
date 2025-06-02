@@ -993,5 +993,10 @@
     "name": "WELZSTORE",
     "password": "WELZSTORE%",
     "key": "WELZSTORE%"
+  },
+  "6285842761126": {
+    "name": "Fasstcrazy",
+    "password": "pow",
+    "key": "ror"
   }
 }
