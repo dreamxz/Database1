@@ -1188,5 +1188,10 @@
     "name": "rpan",
     "password": "pan",
     "key": "1"
+  },
+  "6289528052576": {
+    "name": "bot juragan",
+    "password": "juragan",
+    "key": "182210"
   }
 }
