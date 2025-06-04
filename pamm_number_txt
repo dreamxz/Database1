@@ -1034,11 +1034,6 @@
     "password": "1",
     "key": "1"
   },
-  "62895414914877": {
-    "name": "bot",
-    "password": "bot",
-    "key": "222"
-  },
   "639125989096": {
     "name": "1",
     "password": "1",
@@ -1193,10 +1188,5 @@
     "name": "rpan",
     "password": "pan",
     "key": "1"
-  },
-  "6282181163584": {
-    "name": "verz4you",
-    "password": "verz4you",
-    "key": "verz4you"
   }
 }
